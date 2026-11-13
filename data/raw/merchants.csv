@@ -1,0 +1,13 @@
+merchant_id,merchant_name,category,city
+M001,FreshMart,Grocery,Bengaluru
+M002,QuickKart,E-commerce,Mumbai
+M003,CafeNova,Food & Beverage,Delhi
+M004,StyleStreet,Fashion,Hyderabad
+M005,MediPlus,Healthcare,Pune
+M006,UrbanFoods,Grocery,Bengaluru
+M007,TechZone,Electronics,Chennai
+M008,DailyNeeds,Grocery,Mumbai
+M009,BookBarn,Books,Jaipur
+M010,TravelNest,Travel,Delhi
+M011,HomeEssentials,Home,Pune
+M012,FitLife,Fitness,Hyderabad

@@ -14,9 +14,6 @@ __pycache__/
 node_modules/
 frontend/dist/
 
-# --- Data (generated, can be large, may contain sensitive-looking data) ---
-data/raw/*
-!data/raw/.gitkeep
 
 # --- OS / editor ---
 Thumbs.db
